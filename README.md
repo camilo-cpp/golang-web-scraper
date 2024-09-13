@@ -11,7 +11,7 @@ Web scraping is the process of extracting data from websites. It involves automa
 To use this project, you can run the following command:
 
 ```
-go run main.go
+go run cmd/api/main.go
 ```
 
 This will execute the `main.go` file and start the web scraping process. Make sure you have Go installed on your machine before running this command.
